@@ -8,11 +8,11 @@
     <Title>Mike.RestSharp.ActiveDirectory</Title>
     <Description>Utility classes for integrating RestSharp with ADAL.NET.</Description>
     <PackageSummary>Utility classes for integrating RestSharp with ADAL.NET.</PackageSummary>
-    <PackageProjectUrl>https://github.com/mike706574/restsharp-active-directory</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/mike706574/restsharp-adal</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageLicenseUrl>https://www.eclipse.org/legal/epl-v10.html</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/mike706574/restsharp-active-directory</RepositoryUrl>
+    <RepositoryUrl>https://github.com/mike706574/restsharp-adal</RepositoryUrl>
     <Copyright>Copyright 2018</Copyright>
   </PropertyGroup>
   <ItemGroup>
